@@ -1,0 +1,25 @@
+/* Estilo para el contenedor principal */
+.container {
+    padding: 20px; /* Ajusta el valor según tus necesidades */
+}
+
+/* Estilo para la lista horizontal */
+.horizontal-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Convierte la lista en una fila horizontal */
+    justify-content: space-between; /* Distribuye los elementos de manera uniforme */
+    background-color: #f0f0f0; /* Cambia el color de fondo si lo deseas */
+}
+
+/* Estilo para los elementos de la lista */
+.horizontal-list li {
+    padding: 10px; /* Ajusta el valor según tus necesidades */
+  ; /* Agrega un borde si lo deseas */
+}
+
+
+
+
+
